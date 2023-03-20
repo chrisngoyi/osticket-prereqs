@@ -24,10 +24,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Step 1: PHP Manager Installation
 - Step 2: Microsoft Visual C++ Redistributable
-- Step 1: IIS URL Rewrite Module 2 Installation 
-- Step 1: MySQL Server Installation
-- Step 1:
-- Item 5
+- Step 3: IIS URL Rewrite Module 2 Installation 
+- Step 4: MySQL Server Installation
+- Step 5: osTicket Installation
 
 <h2>Installation Steps</h2>
 
