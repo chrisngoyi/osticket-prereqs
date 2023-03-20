@@ -22,10 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- osTicket Login
-- Item 2
-- Item 3
-- Item 4
+- Step 1: PHP Manager Installation
+- Step 1: Information Services Installation
+- Step 1: MySQL Server Installation
+- Step 1:
 - Item 5
 
 <h2>Installation Steps</h2>
