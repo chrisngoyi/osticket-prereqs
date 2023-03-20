@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Step 1: PHP Manager Installation
+- Step 2: Microsoft Visual C++ Redistribudible
 - Step 1: Information Services Installation
 - Step 1: MySQL Server Installation
 - Step 1:
