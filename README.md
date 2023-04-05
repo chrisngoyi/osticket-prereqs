@@ -46,7 +46,7 @@ After installing the PHP Manager, the second tool to install is Microsoft Visual
 <img src="https://i.imgur.com/HEDUBzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now the picture above shows the installation of Internet Information Services IIS URL Rewrite Module
+Now the picture above shows the installation of Internet Information Services IIS URL Rewrite Module 2
 </p>
 <br />
 
