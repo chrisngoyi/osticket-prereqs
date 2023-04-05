@@ -38,7 +38,7 @@ This is the first step in the installation process of the osTicket, the first th
 <img src="https://i.imgur.com/wobtU01.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After installing the PHP Manager, the second tool to install is C++
+After installing the PHP Manager, the second tool to install is Microsoft Visual C++ Redistributable
 </p>
 <br />
 
