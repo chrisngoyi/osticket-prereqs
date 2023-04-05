@@ -54,7 +54,7 @@ Now the picture above shows the installation of Internet Information Services II
 <img src="https://i.imgur.com/893mTxY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The picture on the sreen above demonstrates the installation of MySQL Server, this is where the Database containing all the information for the osTicket will be stored
 </p>
 <br />
 
