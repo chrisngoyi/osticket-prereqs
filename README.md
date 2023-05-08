@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <p>
-<img src="https://i.imgur.com/Qgip2jL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rQRKhA6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This is the first step in the installation process of the osTicket, the first thing to be installed is PHP Manager
@@ -35,7 +35,7 @@ This is the first step in the installation process of the osTicket, the first th
 <br />
 
 <p>
-<img src="https://i.imgur.com/wobtU01.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cQfUEYX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After installing the PHP Manager, the second tool to install is Microsoft Visual C++ Redistributable
@@ -43,7 +43,7 @@ After installing the PHP Manager, the second tool to install is Microsoft Visual
 <br />
 
 <p>
-<img src="https://i.imgur.com/HEDUBzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/riZLPGS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now the picture above shows the installation of Internet Information Services IIS URL Rewrite Module 2
@@ -51,7 +51,7 @@ Now the picture above shows the installation of Internet Information Services II
 <br />
 
 <p>
-<img src="https://i.imgur.com/893mTxY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fTYyFP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The picture on the sreen above demonstrates the installation of MySQL Server, this is where the Database containing all the information for the osTicket will be stored
@@ -59,7 +59,7 @@ The picture on the sreen above demonstrates the installation of MySQL Server, th
 <br />
 
 <p>
-<img src="https://i.imgur.com/k0tmSLi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sL8tHoR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The funal image is shows the installation of osTicket software itself
+The final image is shows the installation of osTicket software itself
