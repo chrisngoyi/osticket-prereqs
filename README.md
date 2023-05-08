@@ -62,4 +62,4 @@ The picture on the sreen above demonstrates the installation of MySQL Server, th
 <img src="https://i.imgur.com/sL8tHoR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The final image is shows the installation of osTicket software itself
+The final image shows the installation of osTicket software itself
